@@ -1,0 +1,6 @@
+Usagi Tsukino 9 50 50 100 50 50 75 
+Miguel Rivera 7 80 75 100 90 85 95
+hermione granger 6 100 100 100 100 100
+Bartholomew Simpson 4 50 50 50 60 50 50
+Moana Waialiki 10 90 80 85 95 100 75
+miles morales 9 90 90 90 100 85 100
