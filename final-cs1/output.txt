@@ -1,0 +1,74 @@
+Week: 1
+Hours Worked: 11.0
+Full Earnings: $151.69
+Taxed Earnings: $130.9
+Fees: $20.79
+Percentage of Earnings Removed: 13.71%
+
+*************************************************************************
+
+Week: 2
+Hours Worked: 12.0
+Full Earnings: $165.48
+Taxed Earnings: $143.73
+Fees: $21.75
+Percentage of Earnings Removed: 13.14%
+
+*************************************************************************
+
+Week: 3
+Hours Worked: 8.0
+Full Earnings: $110.32
+Taxed Earnings: $93.37
+Fees: $16.95
+Percentage of Earnings Removed: 15.36%
+
+*************************************************************************
+
+Week: 4
+Hours Worked: 4.5
+Full Earnings: $62.05
+Taxed Earnings: $48.84
+Fees: $13.21
+Percentage of Earnings Removed: 21.30%
+
+*************************************************************************
+
+Week: 5
+Hours Worked: 8.0
+Full Earnings: $110.32
+Taxed Earnings: $95.47
+Fees: $14.85
+Percentage of Earnings Removed: 13.46%
+
+*************************************************************************
+
+Week: 6
+Hours Worked: 12.0
+Full Earnings: $165.48
+Taxed Earnings: $146.39
+Fees: $19.09
+Percentage of Earnings Removed: 11.54%
+
+*************************************************************************
+
+Week: 7
+Hours Worked: 12.25
+Full Earnings: $168.93
+Taxed Earnings: $149.49
+Fees: $19.44
+Percentage of Earnings Removed: 11.51%
+
+*************************************************************************
+
+Week: 8
+Hours Worked: 12.0
+Full Earnings: $165.48
+Taxed Earnings: $146.6
+Fees: $18.88
+Percentage of Earnings Removed: 11.41%
+
+*************************************************************************
+
+Week With The Highest Fee Percentage: Week 4
+Average Weekly Fees: $18.12
